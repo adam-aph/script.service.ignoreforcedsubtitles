@@ -1,0 +1,3 @@
+--- Version 0.1.9
+
+First version of Ignore Forced Subtitles.
